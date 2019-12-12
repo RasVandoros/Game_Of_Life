@@ -1,0 +1,7 @@
+Added Functionality Ideas:
+
+-3D space
+-Scouting in set radious
+-Communicating between insects
+-More complect map; rather than a 2D array, use nodes instead to create a more dynamic environment
+-Extracting data from reruns and running derived dataset through supervise learning algorithms
